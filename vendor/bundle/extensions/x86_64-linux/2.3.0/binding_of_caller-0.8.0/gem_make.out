@@ -1,0 +1,16 @@
+current directory: /home/lezwon/Desktop/MyProject/myartical/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/usr/bin/ruby2.3 -r ./siteconf20181217-9495-1l9ib6e.rb extconf.rb
+
+current directory: /home/lezwon/Desktop/MyProject/myartical/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: /home/lezwon/Desktop/MyProject/myartical/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /home/lezwon/Desktop/MyProject/myartical/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
